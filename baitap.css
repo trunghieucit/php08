@@ -1,0 +1,106 @@
+body{
+background: #c1bdba;	
+color: white;
+font-family: 'Titillium Web', sans-serif;
+font-size: 20px;
+color: #1ab188;
+}
+.cv{
+height: 800px;
+width: 850px;
+background: rgba(19, 35, 47, 0.9);
+border-radius: 10px;
+margin-left: 550px;
+}
+.div1{
+height: 800px;
+width: 46%;
+float: left;
+margin: center;
+padding: 5px;
+margin-left: 20px;
+}
+.div2{
+height: 450px;
+width: 49%;
+float: right;
+margin-left: 10px;
+}
+h1{
+text-align: center;
+color: white;
+}
+.birthday{
+margin-left: 40px;
+}
+img{
+height: 60px;
+width: 60px;
+}
+.style{
+margin-left: 70px;
+border: 1px solid #a0b3b0;
+background: none;
+display: block;
+width: 300px;
+height: 35px;
+font-size: 17px;
+padding: 5px 10px;
+color: #a0b3b0;
+}
+.style2{
+margin-left: 70px;
+height: 70px;
+width: 280px;
+border: 1px solid #a0b3b0;
+background: none;
+display: block;
+font-size: 17px;
+padding: 5px 10px;
+color: #a0b3b0;
+}
+.style3{
+margin-left: 70px;
+}
+.style6{
+margin-left: 5px;
+border: 1px solid #a0b3b0;
+background: none;
+display: block;
+width: 50px;
+height: 38px;
+font-size: 17px;
+padding: 5px 10px;
+color: #a0b3b0;
+float: left;
+}
+.style7{
+margin-left: 5px;
+border: 1px solid #a0b3b0;
+background: none;
+display: block;
+width: 70px;
+height: 38px;
+font-size: 17px;
+padding: 5px 10px;
+color: #a0b3b0;
+float: left;
+}
+.style8{
+margin-left: 5px;
+border: 1px solid #a0b3b0;
+background: none;
+display: block;
+width: 90px;
+height: 38px;
+font-size: 17px;
+padding: 5px 10px;
+color: #a0b3b0;
+float: left;
+}
+.head{
+height: 55px;
+width: 300px;
+background: #1ab188;
+margin:auto;
+}
